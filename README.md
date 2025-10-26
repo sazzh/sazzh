@@ -2,5 +2,5 @@
 
 [](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
-![Profile View Tracker](https://komarev.com/ghpvc/?username=sazzh&color=228b22&label=friends)
+![Profile View Tracker](https://komarev.com/ghpvc/?username=sazzh&color=228b22&label=friends&style=pixel)
 
